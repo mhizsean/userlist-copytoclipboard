@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.copy-body {
+  margin: 0;
+  padding: 20px;
+  background-color: grey;
+  width: 100%;
+}
+
+.copy-text {
+  border: 1px solid rgb(155, 153, 153);
+  width: 400px;
+  height: 150px;
+  background-color: #61dafb;
+}
+
+.copy-btn {
+  background-color: #000;
+  color: #fff;
+  border: none;
+  padding: 5px;
+  cursor: pointer;
+}
